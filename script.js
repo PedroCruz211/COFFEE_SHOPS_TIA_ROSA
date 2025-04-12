@@ -3,7 +3,7 @@ document.getElementById('mostrarRedes').addEventListener('click', function() {
     
     
     if (redes.style.display === 'none' || redes.style.display === '') {
-        redes.style.display = 'block';  // Exibe as redes sociais
+        redes.style.display = 'block';  
     } else {
         redes.style.display = 'none';  
     }
